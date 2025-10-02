@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://doandang-ai-15.github.io/luxury-website",
+  "homepage": "https://github.com/doandang-ai-15/thienphumut",
   "eslintConfig": {
     "extends": [
       "react-app",
