@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/luxury-website/static/css/main.105a0a1f.css",
+    "main.js": "/luxury-website/static/js/main.d443ab20.js",
+    "static/js/453.93d6e6aa.chunk.js": "/luxury-website/static/js/453.93d6e6aa.chunk.js",
+    "static/media/slide3.jpg": "/luxury-website/static/media/slide3.453356d7f5e65064f5e7.jpg",
+    "static/media/slide2.jpg": "/luxury-website/static/media/slide2.f874bed25ee024190ff8.jpg",
+    "static/media/slide1.jpg": "/luxury-website/static/media/slide1.47d3f842e6fc495090fc.jpg",
+    "static/media/story_of_us.jpg": "/luxury-website/static/media/story_of_us.cf325c3b06af53080004.jpg",
+    "static/media/UTM AvoBold_Italic.ttf": "/luxury-website/static/media/UTM AvoBold_Italic.8f0472e30f23c816ee36.ttf",
+    "static/media/UTM AvoItalic.ttf": "/luxury-website/static/media/UTM AvoItalic.c28354fd8cf42fb7e4f0.ttf",
+    "static/media/UTM AvoBold.ttf": "/luxury-website/static/media/UTM AvoBold.4325c2f915d76dd42553.ttf",
+    "static/media/UTM Avo.ttf": "/luxury-website/static/media/UTM Avo.acd8c5d47db864e9bd0f.ttf",
+    "index.html": "/luxury-website/index.html",
+    "main.105a0a1f.css.map": "/luxury-website/static/css/main.105a0a1f.css.map",
+    "main.d443ab20.js.map": "/luxury-website/static/js/main.d443ab20.js.map",
+    "453.93d6e6aa.chunk.js.map": "/luxury-website/static/js/453.93d6e6aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.105a0a1f.css",
+    "static/js/main.d443ab20.js"
+  ]
+}
